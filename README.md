@@ -1,6 +1,6 @@
 # fantasy-baseball-pipeline
 
-Predictive model that orders MLB players by where they should be drafted. This is based on ESPN's ROTO league, with standard scoring rules.
+Predictive model that orders MLB players by where they should be drafted and changes dynamically with each subsequent draft pick based on player value and team need. This is based on ESPN's ROTO league, with standard scoring rules.
 
 ### ESPN Rotisserie (ROTO)
 
@@ -11,4 +11,9 @@ Predictive model that orders MLB players by where they should be drafted. This i
 
 ### Data
 
-  The data we used was downloaded from baseball savant's statcast customizable leaderboards. We then found which features correlated best with value added to a fantasy team. 
+  The dat we are using is from the Steamers projections for the 2020 season. Initially, we wanted to build our own projection system, but realized this would be more difficult due to playing time considerations than initially thought (for example, projecting a highly ranked prospect who only had 100 at bats, or a player who was injured for the majority of the season). So, we decided to use a pre-existing projection database, and to build our dynamic model using this.
+
+
+### Draft Value
+
+ESPN's draft system orders players based on the median assessment of value by several predetermined analysts (for example, if three analysts believe a player should be drafted 10, and one believes they should be drafted 12, they will have an average of 10.5). This will display for the person drafting, so they can default to experts if need be. However, this model does not evolve as a person continues to draft their team, and as players come off the board. This means that if the person has drafted no pitchers, but other teams have been specifically targeting pitchers, the model does not change its weighting of pitcher value from pre-draft rankings. Our model attempts to fix this, and integrate an updated weight based not only on projected player performance, but also on an individual team's needs. 
