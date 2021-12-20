@@ -1,0 +1,501 @@
+Rank,Player/Team/Pos,Player,Team/Pos,H,R,RBI,BB,K,SB,Tot,Avg,
+1,"Shohei Ohtani
+LAADH, SP",Shohei Ohtani,"LAADH, SP",88,45,53,29,92,7,451,18.8,130
+2,"Mookie Betts
+LADOF",Mookie Betts,LADOF,168,117,79,84,92,21,377,2.6,377
+3,"Alex Bregman
+Hou3B, SS",Alex Bregman,"Hou3B, SS",150,102,94,91,79,6,364,2.5,364
+4,"Mike Trout
+LAAOF",Mike Trout,LAAOF,148,112,99,112,124,15,362,2.5,362
+5,"Anthony Rendon
+LAA3B",Anthony Rendon,LAA3B,159,93,103,72,81,3,349,2.5,349
+6,"Christian Yelich
+MilOF",Christian Yelich,MilOF,169,106,99,76,126,23,347,2.5,347
+7,"Juan Soto
+WshOF",Juan Soto,WshOF,153,104,104,102,126,9,346,2.4,346
+8,"Nolan Arenado
+Col3B",Nolan Arenado,Col3B,172,93,108,61,97,2,339,2.3,339
+9,"Cody Bellinger
+LADOF, 1B",Cody Bellinger,"LADOF, 1B",150,106,104,82,120,12,334,2.3,334
+10,"Anthony Rizzo
+ChC1B",Anthony Rizzo,ChC1B,155,84,96,75,84,4,330,2.2,330
+11,"Freddie Freeman
+Atl1B",Freddie Freeman,Atl1B,167,94,97,78,119,5,322,2.2,322
+12,"Marcus Semien
+OakSS",Marcus Semien,OakSS,159,107,80,71,106,8,319,2.2,319
+13,"Jose Ramirez
+Cle3B",Jose Ramirez,Cle3B,141,80,84,65,77,22,315,2.3,315
+14,"Francisco Lindor
+CleSS",Francisco Lindor,CleSS,162,97,72,51,96,22,308,2.1,308
+15,"Luis Arraez
+Min2B, OF",Luis Arraez,"Min2B, OF",170,76,46,61,48,3,308,2.1,308
+16,"Xander Bogaerts
+BosSS",Xander Bogaerts,BosSS,161,90,95,67,112,6,307,2.1,307
+17,"Jose Altuve
+Hou2B",Jose Altuve,Hou2B,170,93,74,48,89,9,305,2.2,305
+18,"Michael Brantley
+HouOF, DH",Michael Brantley,"HouOF, DH",159,78,78,48,64,6,305,2.2,305
+19,"Ketel Marte
+AriOF, 2B",Ketel Marte,"AriOF, 2B",169,86,77,52,88,7,303,2,303
+20,"Carlos Santana
+Cle1B, DH",Carlos Santana,"Cle1B, DH",134,86,77,96,98,3,298,2.1,298
+21,"George Springer
+HouOF",George Springer,HouOF,147,104,93,67,118,4,297,2.2,297
+22,"Trea Turner
+WshSS",Trea Turner,WshSS,168,96,61,51,119,38,295,2.1,295
+23,"DJ LeMahieu
+NYY2B, 1B, 3B",DJ LeMahieu,"NYY2B, 1B, 3B",167,91,77,44,88,3,294,2.2,294
+24,"Charlie Blackmon
+ColOF",Charlie Blackmon,ColOF,171,103,75,47,106,3,293,2.2,293
+25,"J.D. Martinez
+BosOF, DH",J.D. Martinez,"BosOF, DH",163,91,103,67,135,3,292,2.1,292
+26,"Ronald Acuna Jr.
+AtlOF",Ronald Acuna Jr.,AtlOF,163,110,88,69,171,32,291,2,291
+27,"Rafael Devers
+Bos3B",Rafael Devers,Bos3B,170,100,95,48,128,3,288,1.9,288
+28,"Bryce Harper
+PhiOF",Bryce Harper,PhiOF,136,93,101,99,154,10,285,2,285
+29,"Josh Bell
+Pit1B",Josh Bell,Pit1B,136,87,98,70,106,0,285,2,285
+30,"Jeff McNeil
+NYMOF, 2B, 3B",Jeff McNeil,"NYMOF, 2B, 3B",153,89,76,38,76,5,285,2.1,285
+31,"Marcell Ozuna
+AtlOF",Marcell Ozuna,AtlOF,149,83,101,57,114,7,283,2.1,283
+32,"Jorge Polanco
+MinSS",Jorge Polanco,MinSS,161,88,74,53,103,5,278,2,278
+33,"Ozzie Albies
+Atl2B",Ozzie Albies,Atl2B,167,90,71,46,113,13,274,1.8,274
+34,"Whit Merrifield
+KC2B, OF",Whit Merrifield,"KC2B, OF",175,82,62,42,106,19,274,1.9,274
+35,"Starling Marte
+AriOF",Starling Marte,AriOF,156,92,79,26,101,21,273,2,273
+36,"Jean Segura
+PhiSS",Jean Segura,PhiSS,162,81,58,31,71,10,271,1.9,271
+37,"Yuli Gurriel
+Hou1B, 3B",Yuli Gurriel,"Hou1B, 3B",145,70,85,27,62,3,268,2,268
+38,"Kris Bryant
+ChC3B, OF",Kris Bryant,"ChC3B, OF",150,104,74,72,143,4,261,1.8,261
+39,"Nick Madrigal
+ChW2B",Nick Madrigal,ChW2B,124,69,35,37,18,14,261,2.5,261
+40,"Vladimir Guerrero Jr.
+Tor3B, DH",Vladimir Guerrero Jr.,"Tor3B, DH",145,66,85,49,86,1,260,1.9,260
+41,"Adam Eaton
+WshOF",Adam Eaton,WshOF,147,93,47,59,98,12,260,1.9,260
+42,"Yordan Alvarez
+HouDH",Yordan Alvarez,HouDH,139,84,114,71,151,2,259,1.9,259
+43,"Corey Seager
+LADSS",Corey Seager,LADSS,137,84,87,51,103,1,257,1.9,257
+44,"Matt Chapman
+Oak3B",Matt Chapman,Oak3B,149,107,89,69,159,1,256,1.7,256
+45,"Joey Votto
+Cin1B",Joey Votto,Cin1B,137,73,55,89,102,4,256,1.8,256
+46,"Tommy La Stella
+LAA2B, 3B",Tommy La Stella,"LAA2B, 3B",136,75,67,39,61,0,256,1.8,256
+47,"Tommy Pham
+SDOF, DH",Tommy Pham,"SDOF, DH",135,81,64,75,117,17,255,1.9,255
+48,"Manny Machado
+SD3B, SS",Manny Machado,"SD3B, SS",147,73,82,58,111,5,254,1.8,254
+49,"Paul Goldschmidt
+StL1B",Paul Goldschmidt,StL1B,147,89,87,78,151,4,254,1.7,254
+50,"Cesar Hernandez
+Cle2B",Cesar Hernandez,Cle2B,151,75,56,58,100,14,254,1.8,254
+51,"Jose Abreu
+ChW1B, DH",Jose Abreu,"ChW1B, DH",158,79,103,37,125,1,253,1.8,253
+52,"Josh Donaldson
+Min3B",Josh Donaldson,Min3B,133,85,84,94,146,3,253,1.8,253
+53,"Eddie Rosario
+MinOF",Eddie Rosario,MinOF,143,80,87,25,86,3,252,1.9,252
+54,"Andrew Benintendi
+BosOF",Andrew Benintendi,BosOF,151,79,75,67,132,12,252,1.8,252
+55,"Eduardo Escobar
+Ari3B, 2B",Eduardo Escobar,"Ari3B, 2B",149,79,96,44,119,3,252,1.8,252
+56,"Kevin Newman
+PitSS, 2B",Kevin Newman,"PitSS, 2B",157,70,58,32,76,11,252,1.7,252
+57,"Justin Turner
+LAD3B",Justin Turner,LAD3B,131,75,67,50,75,2,250,2,250
+58,"Austin Meadows
+TBOF, DH",Austin Meadows,"TBOF, DH",157,82,86,50,135,9,249,1.8,249
+59,"Bryan Reynolds
+PitOF",Bryan Reynolds,PitOF,153,88,73,54,126,3,245,1.7,245
+60,"Nelson Cruz
+MinDH",Nelson Cruz,MinDH,137,79,106,58,136,0,244,1.8,244
+61,"Elvis Andrus
+TexSS",Elvis Andrus,TexSS,152,69,59,35,92,21,244,1.8,244
+62,"Rhys Hoskins
+Phi1B",Rhys Hoskins,Phi1B,119,81,86,94,139,2,243,1.7,243
+63,"Max Muncy
+LAD2B, 1B, 3B",Max Muncy,"LAD2B, 1B, 3B",116,92,90,83,141,3,243,1.7,243
+64,"Trent Grisham
+SDOF",Trent Grisham,SDOF,117,70,66,77,95,8,243,1.9,243
+65,"Pete Alonso
+NYM1B",Pete Alonso,NYM1B,132,94,112,69,167,0,240,1.7,240
+66,"Max Kepler
+MinOF",Max Kepler,MinOF,120,82,72,56,91,1,240,1.8,240
+67,"Didi Gregorius
+PhiSS",Didi Gregorius,PhiSS,125,74,86,30,78,3,240,1.8,240
+68,"Tommy Edman
+StL3B, 2B",Tommy Edman,"StL3B, 2B",151,83,54,32,100,19,239,1.7,239
+69,"Daniel Murphy
+Col1B",Daniel Murphy,Col1B,134,63,75,37,71,1,239,1.8,239
+70,"Andrew McCutchen
+PhiOF",Andrew McCutchen,PhiOF,128,83,67,76,120,4,238,1.8,238
+71,"Carlos Correa
+HouSS",Carlos Correa,HouSS,133,76,93,60,127,2,237,1.8,237
+72,"J.T. Realmuto
+PhiC",J.T. Realmuto,PhiC,139,83,79,37,108,6,236,1.8,236
+73,"Adam Frazier
+Pit2B",Adam Frazier,Pit2B,135,75,54,41,71,2,236,1.7,236
+74,"Michael Conforto
+NYMOF",Michael Conforto,NYMOF,122,84,86,74,134,3,235,1.8,235
+75,"Mike Moustakas
+Cin3B, 2B",Mike Moustakas,"Cin3B, 2B",131,72,86,44,100,2,235,1.7,235
+76,"Lorenzo Cain
+MilOF",Lorenzo Cain,MilOF,147,72,42,52,97,16,232,1.7,232
+77,"Yasiel Puig
+FAOF",Yasiel Puig,FAOF,139,71,78,46,115,13,--,1.6,232
+78,"Hanser Alberto
+Bal2B, 3B",Hanser Alberto,"Bal2B, 3B",155,59,54,15,52,1,232,1.6,232
+79,"Gleyber Torres
+NYYSS, 2B",Gleyber Torres,"NYYSS, 2B",144,82,87,49,136,5,231,1.6,231
+80,"Nicholas Castellanos
+CinOF",Nicholas Castellanos,CinOF,163,89,79,42,143,1,231,1.6,231
+81,"Kolten Wong
+StL2B",Kolten Wong,StL2B,127,62,56,49,85,22,231,1.5,231
+82,"Bo Bichette
+TorSS",Bo Bichette,TorSS,148,83,67,40,123,15,230,1.7,230
+83,"Trevor Story
+ColSS",Trevor Story,ColSS,157,90,86,53,174,15,227,1.6,227
+84,"Kyle Seager
+Sea3B",Kyle Seager,Sea3B,132,70,84,50,110,1,227,1.6,227
+85,"Andrelton Simmons
+LAASS",Andrelton Simmons,LAASS,125,54,52,29,43,9,226,1.9,226
+86,"Alex Verdugo
+BosOF",Alex Verdugo,BosOF,132,58,55,38,67,9,225,2.1,225
+87,"Nicky Lopez
+KC2B, SS",Nicky Lopez,"KC2B, SS",135,64,41,37,59,7,225,1.7,225
+88,"Cavan Biggio
+Tor2B",Cavan Biggio,Tor2B,115,79,77,92,154,14,223,1.7,223
+89,"Amed Rosario
+NYMSS",Amed Rosario,NYMSS,159,75,66,30,122,14,222,1.5,222
+90,"Gio Urshela
+NYY3B",Gio Urshela,NYY3B,150,73,72,28,101,0,222,1.6,222
+91,"Starlin Castro
+Wsh2B, 3B",Starlin Castro,"Wsh2B, 3B",148,69,74,29,99,1,222,1.7,222
+92,"Wilson Ramos
+NYMC",Wilson Ramos,NYMC,127,51,77,42,78,1,220,1.6,220
+93,"Edwin Encarnacion
+ChW1B, DH",Edwin Encarnacion,"ChW1B, DH",107,77,88,63,117,1,219,1.8,219
+94,"Matt Olson
+Oak1B",Matt Olson,Oak1B,136,80,93,61,153,1,218,1.5,218
+95,"Ramon Laureano
+OakOF",Ramon Laureano,OakOF,149,93,78,41,159,16,218,1.5,218
+96,"David Fletcher
+LAA3B, 2B, SS, OF",David Fletcher,"LAA3B, 2B, SS, OF",131,62,38,34,54,7,218,1.8,218
+97,"Maikel Franco
+KC3B",Maikel Franco,KC3B,120,56,68,41,69,0,216,1.7,216
+98,"Jorge Soler
+KCOF, DH",Jorge Soler,"KCOF, DH",137,76,91,66,161,3,212,1.5,212
+99,"Eloy Jimenez
+ChWOF",Eloy Jimenez,ChWOF,146,77,86,37,136,0,210,1.5,210
+100,"Eugenio Suarez
+Cin3B",Eugenio Suarez,Cin3B,134,74,87,61,147,1,210,1.5,210
+101,"Kole Calhoun
+AriOF",Kole Calhoun,AriOF,126,81,68,63,132,4,210,1.5,210
+102,"Jurickson Profar
+SD2B",Jurickson Profar,SD2B,103,61,60,47,69,8,210,1.7,210
+103,"Jose Iglesias
+BalSS",Jose Iglesias,BalSS,135,56,56,20,63,6,210,1.5,210
+104,"Aaron Judge
+NYYOF",Aaron Judge,NYYOF,128,92,75,86,175,3,209,1.6,209
+105,"Tim Anderson
+ChWSS",Tim Anderson,ChWSS,160,83,63,22,134,15,209,1.4,209
+106,"Lourdes Gurriel Jr.
+TorOF",Lourdes Gurriel Jr.,TorOF,140,77,90,24,126,3,208,1.5,208
+107,"Shogo Akiyama
+CinOF",Shogo Akiyama,CinOF,129,72,48,53,105,11,208,1.8,208
+108,"Javier Baez
+ChCSS",Javier Baez,ChCSS,152,90,91,29,164,9,207,1.4,207
+109,"Giancarlo Stanton
+NYYOF",Giancarlo Stanton,NYYOF,124,85,94,62,160,1,206,1.7,206
+110,"Kyle Schwarber
+ChCOF",Kyle Schwarber,ChCOF,129,77,80,75,158,1,204,1.4,204
+111,"Victor Robles
+WshOF",Victor Robles,WshOF,135,77,61,34,128,24,203,1.4,203
+112,"J.D. Davis
+NYMOF, 3B",J.D. Davis,"NYMOF, 3B",136,74,70,44,124,3,203,1.4,203
+113,"Nick Ahmed
+AriSS",Nick Ahmed,AriSS,125,66,69,44,106,5,203,1.4,203
+114,"Miguel Rojas
+MiaSS",Miguel Rojas,MiaSS,127,52,49,31,60,4,203,1.5,203
+115,"Brian Anderson
+Mia3B, OF",Brian Anderson,"Mia3B, OF",129,72,72,50,123,2,202,1.5,202
+116,"Yandy Diaz
+TB3B, 1B",Yandy Diaz,"TB3B, 1B",121,68,48,57,94,1,201,1.6,201
+117,"Corey Dickerson
+MiaOF",Corey Dickerson,MiaOF,137,65,74,29,106,2,201,1.4,201
+118,"Asdrubal Cabrera
+Wsh3B, 2B",Asdrubal Cabrera,"Wsh3B, 2B",113,61,73,46,94,2,201,1.6,201
+119,"Oscar Mercado
+CleOF",Oscar Mercado,CleOF,133,74,51,37,115,20,200,1.5,200
+120,"Jason Heyward
+ChCOF",Jason Heyward,ChCOF,110,62,52,51,78,3,200,1.6,200
+121,"Keston Hiura
+Mil2B",Keston Hiura,Mil2B,145,82,78,46,163,11,199,1.4,199
+122,"Nick Markakis
+AtlOF",Nick Markakis,AtlOF,111,50,53,44,60,1,199,1.9,199
+123,"Ryan Braun
+MilOF",Ryan Braun,MilOF,120,65,68,36,100,9,198,1.4,198
+124,"Joc Pederson
+LADOF, 1B",Joc Pederson,"LADOF, 1B",102,77,68,48,99,1,197,1.5,197
+125,"Brandon Belt
+SF1B",Brandon Belt,SF1B,122,70,55,76,129,3,197,1.3,197
+126,"Paul DeJong
+StLSS",Paul DeJong,StLSS,128,82,74,50,142,3,195,1.4,195
+127,"Miguel Andujar
+NYYDH",Miguel Andujar,NYYDH,132,59,69,22,88,1,195,1.5,195
+128,"Fernando Tatis Jr.
+SDSS",Fernando Tatis Jr.,SDSS,145,91,70,47,176,17,194,1.4,194
+129,"Jonathan Villar
+Mia2B, SS",Jonathan Villar,"Mia2B, SS",137,78,56,51,157,28,193,1.4,193
+130,"Nick Solak
+TexDH",Nick Solak,TexDH,121,75,65,51,126,6,192,1.5,192
+131,"Eric Hosmer
+SD1B",Eric Hosmer,SD1B,145,68,78,44,145,1,191,1.3,191
+132,"Gregory Polanco
+PitOF",Gregory Polanco,PitOF,114,68,68,52,121,10,191,1.4,191
+133,"Daniel Vogelbach
+Sea1B, DH",Daniel Vogelbach,"Sea1B, DH",102,66,73,83,133,0,191,1.4,191
+134,"Albert Pujols
+LAA1B, DH",Albert Pujols,"LAA1B, DH",106,45,74,30,66,2,191,1.7,191
+135,"Yasmani Grandal
+ChWC, 1B",Yasmani Grandal,"ChWC, 1B",99,62,63,77,117,2,186,1.5,186
+136,"C.J. Cron
+Det1B",C.J. Cron,Det1B,129,60,84,31,119,1,186,1.4,186
+137,"Omar Narvaez
+MilC",Omar Narvaez,MilC,114,57,49,53,87,0,186,1.4,186
+138,"Yoan Moncada
+ChW3B",Yoan Moncada,ChW3B,146,81,75,50,175,7,184,1.3,184
+139,"Avisail Garcia
+MilOF, DH",Avisail Garcia,"MilOF, DH",136,65,74,32,128,5,184,1.4,184
+140,"David Peralta
+AriOF",David Peralta,AriOF,123,58,63,37,98,1,184,1.6,184
+141,"Stephen Piscotty
+OakOF",Stephen Piscotty,OakOF,117,64,64,42,105,2,184,1.5,184
+142,"Khris Davis
+OakDH",Khris Davis,OakDH,116,76,92,51,153,1,183,1.4,183
+143,"Justin Smoak
+Mil1B, DH",Justin Smoak,"Mil1B, DH",98,58,63,75,111,0,183,1.5,183
+144,"Victor Reyes
+DetOF",Victor Reyes,DetOF,135,62,56,21,103,12,183,1.4,183
+145,"Mallex Smith
+SeaOF",Mallex Smith,SeaOF,118,65,36,39,114,38,182,1.4,182
+146,"Christian Vazquez
+BosC",Christian Vazquez,BosC,126,59,59,32,98,4,182,1.3,182
+147,"Robinson Cano
+NYM2B",Robinson Cano,NYM2B,111,54,55,31,69,0,182,1.6,182
+148,"Dansby Swanson
+AtlSS",Dansby Swanson,AtlSS,124,66,60,53,128,6,181,1.3,181
+149,"Anthony Santander
+BalOF",Anthony Santander,BalOF,132,65,74,28,121,2,180,1.3,180
+150,"Mitch Garver
+MinC",Mitch Garver,MinC,99,71,68,50,110,0,178,1.5,178
+151,"Jon Berti
+MiaSS, 3B, OF",Jon Berti,"MiaSS, 3B, OF",108,63,43,42,104,25,177,1.5,177
+152,"Jesse Winker
+CinOF",Jesse Winker,CinOF,101,50,43,46,63,0,177,1.5,177
+153,"Shin-Soo Choo
+TexOF, DH",Shin-Soo Choo,"TexOF, DH",122,68,48,67,138,9,176,1.4,176
+154,"Matt Carpenter
+StL3B",Matt Carpenter,StL3B,102,71,54,76,131,4,176,1.4,176
+155,"Brett Gardner
+NYYOF",Brett Gardner,NYYOF,99,69,50,44,96,9,175,1.5,175
+156,"Yadier Molina
+StLC",Yadier Molina,StLC,106,45,60,24,66,5,174,1.5,174
+157,"Josh Reddick
+HouOF",Josh Reddick,HouOF,101,47,45,33,55,3,174,1.6,174
+158,"Willie Calhoun
+TexOF",Willie Calhoun,TexOF,101,51,51,34,65,1,173,1.6,173
+159,"Mark Canha
+OakOF",Mark Canha,OakOF,96,70,54,50,100,2,172,1.4,172
+160,"Austin Hays
+BalOF",Austin Hays,BalOF,130,75,74,27,142,8,172,1.3,172
+161,"Christian Walker
+Ari1B",Christian Walker,Ari1B,126,73,66,51,150,5,171,1.2,171
+162,"Jonathan Schoop
+Det2B",Jonathan Schoop,Det2B,130,71,73,23,127,1,171,1.2,171
+163,"Brandon Nimmo
+NYMOF",Brandon Nimmo,NYMOF,97,74,54,84,144,6,171,1.2,171
+164,"Travis d'Arnaud
+AtlC, 1B",Travis d'Arnaud,"AtlC, 1B",94,53,71,31,78,0,171,1.6,171
+165,"Miguel Sano
+Min3B",Miguel Sano,Min3B,110,83,89,64,176,0,170,1.4,170
+166,"Howie Kendrick
+Wsh1B, 2B",Howie Kendrick,"Wsh1B, 2B",103,48,48,22,54,3,170,1.6,170
+167,"Justin Upton
+LAAOF",Justin Upton,LAAOF,109,71,80,57,153,4,168,1.4,168
+168,"Miguel Cabrera
+Det1B, DH",Miguel Cabrera,"Det1B, DH",123,41,57,46,99,0,168,1.4,168
+169,"Mauricio Dubon
+SF2B",Mauricio Dubon,SF2B,112,54,39,20,67,10,168,1.6,168
+170,"Hunter Dozier
+KC3B, OF",Hunter Dozier,"KC3B, OF",136,64,69,50,154,2,167,1.2,167
+171,"Renato Nunez
+Bal1B, DH",Renato Nunez,"Bal1B, DH",127,69,81,43,154,1,167,1.2,167
+172,"Colin Moran
+Pit3B",Colin Moran,Pit3B,114,48,72,32,99,0,167,1.2,167
+173,"Willson Contreras
+ChCC",Willson Contreras,ChCC,110,58,68,46,118,1,165,1.3,165
+174,"Buster Posey
+SFC",Buster Posey,SFC,109,44,41,37,67,1,165,1.5,165
+175,"Evan Longoria
+SF3B",Evan Longoria,SF3B,118,55,63,34,108,3,165,1.3,165
+176,"Todd Frazier
+Tex3B",Todd Frazier,Tex3B,87,56,59,44,83,2,165,1.6,165
+177,"A.J. Pollock
+LADOF",A.J. Pollock,LADOF,99,59,56,27,85,8,164,1.6,164
+178,"Mike Yastrzemski
+SFOF",Mike Yastrzemski,SFOF,117,78,62,44,139,1,163,1.2,163
+179,"Jesus Aguilar
+Mia1B",Jesus Aguilar,Mia1B,97,52,68,49,103,0,163,1.1,163
+180,"Adam Haseley
+PhiOF",Adam Haseley,PhiOF,120,64,53,43,121,4,163,1.2,163
+181,"Brandon Crawford
+SFSS",Brandon Crawford,SFSS,117,56,57,47,116,2,163,1.2,163
+182,"Luke Voit
+NYY1B, DH",Luke Voit,"NYY1B, DH",109,63,61,56,127,0,162,1.3,162
+183,"Danny Santana
+TexOF, 1B",Danny Santana,"TexOF, 1B",129,74,72,27,157,16,161,1.2,161
+184,"Byron Buxton
+MinOF",Byron Buxton,MinOF,110,71,60,33,134,20,160,1.3,160
+185,"Nick Senzel
+CinOF",Nick Senzel,CinOF,122,68,53,42,136,11,160,1.2,160
+186,"David Dahl
+ColOF",David Dahl,ColOF,116,61,63,30,114,3,159,1.4,159
+187,"J.P. Crawford
+SeaSS",J.P. Crawford,SeaSS,99,56,53,56,109,4,159,1.3,159
+188,"Ryan McMahon
+Col2B, 3B",Ryan McMahon,"Col2B, 3B",115,56,66,44,127,4,158,1.2,158
+189,"Carson Kelly
+AriC",Carson Kelly,AriC,90,51,52,54,92,0,155,1.2,155
+190,"Enrique Hernandez
+LAD2B, OF",Enrique Hernandez,"LAD2B, OF",87,55,55,38,83,3,155,1.2,155
+191,"Luis Robert
+ChWOF",Luis Robert,ChWOF,121,77,61,24,146,17,154,1.4,154
+192,"Gavin Lux
+LAD2B",Gavin Lux,LAD2B,105,64,48,36,103,4,154,1.5,154
+193,"Franmil Reyes
+CleOF, DH",Franmil Reyes,"CleOF, DH",121,65,73,43,150,0,152,1.1,152
+194,"Garrett Hampson
+Col2B, OF",Garrett Hampson,"Col2B, OF",117,55,35,33,108,20,152,1.1,152
+195,"Ji-Man Choi
+TBDH, 1B",Ji-Man Choi,"TBDH, 1B",99,48,62,55,113,1,152,1.2,152
+196,"Joey Gallo
+TexOF",Joey Gallo,TexOF,107,85,83,85,213,4,151,1.1,151
+197,"Adalberto Mondesi
+KCSS",Adalberto Mondesi,KCSS,125,65,66,23,164,36,151,1.1,151
+198,"Gary Sanchez
+NYYC",Gary Sanchez,NYYC,96,64,76,41,126,0,151,1.4,151
+199,"Kyle Tucker
+HouOF",Kyle Tucker,HouOF,99,60,62,35,119,14,151,1.3,151
+200,"Danny Jansen
+TorC",Danny Jansen,TorC,88,47,50,36,71,1,151,1.3,151
+201,"Robbie Grossman
+OakOF",Robbie Grossman,OakOF,85,47,35,51,70,3,151,1.4,151
+202,"Marwin Gonzalez
+MinOF, 1B, 3B",Marwin Gonzalez,"MinOF, 1B, 3B",99,47,54,35,86,1,150,1.4,150
+203,"Jose Martinez
+TBOF",Jose Martinez,TBOF,96,44,49,36,77,2,150,1.3,150
+204,"Harold Ramirez
+MiaOF",Harold Ramirez,MiaOF,115,51,49,20,88,3,150,1.3,150
+205,"Randal Grichuk
+TorOF",Randal Grichuk,TorOF,120,68,73,30,144,2,149,1.1,149
+206,"Travis Shaw
+Tor3B",Travis Shaw,Tor3B,87,53,59,56,109,3,149,1.3,149
+207,"Salvador Perez
+KCC",Salvador Perez,KCC,108,45,65,14,85,1,148,1.4,148
+208,"Sean Murphy
+OakC",Sean Murphy,OakC,92,62,55,33,97,1,146,1.4,146
+209,"Will Smith
+LADC",Will Smith,LADC,87,60,73,38,116,3,145,1.4,145
+210,"Nomar Mazara
+ChWOF",Nomar Mazara,ChWOF,106,54,62,31,110,2,145,1.3,145
+211,"Eric Thames
+Wsh1B",Eric Thames,Wsh1B,99,71,62,51,142,4,145,1.1,145
+212,"Alex Gordon
+KCOF",Alex Gordon,KCOF,99,49,46,35,88,4,145,1.3,145
+213,"Mitch Moreland
+Bos1B",Mitch Moreland,Bos1B,86,50,58,41,91,1,145,1.4,145
+214,"Brandon Lowe
+TB2B",Brandon Lowe,TB2B,116,66,77,46,167,6,144,1.1,144
+215,"Mitch Haniger
+SeaOF",Mitch Haniger,SeaOF,87,59,49,39,94,4,144,1.6,144
+216,"Dylan Carlson
+StLOF",Dylan Carlson,StLOF,88,55,40,33,80,8,144,1.7,144
+217,"Jacob Stallings
+PitC",Jacob Stallings,PitC,100,53,41,27,78,0,143,1.1,143
+218,"Rougned Odor
+Tex2B",Rougned Odor,Tex2B,107,64,69,41,145,6,142,1.1,142
+219,"Willy Adames
+TBSS",Willy Adames,TBSS,124,66,53,50,154,3,142,1,142
+220,"Freddy Galvis
+CinSS, 2B",Freddy Galvis,"CinSS, 2B",120,55,56,31,124,4,142,1.1,142
+221,"Kevin Kiermaier
+TBOF",Kevin Kiermaier,TBOF,102,58,48,27,107,13,141,1.2,141
+222,"Scooter Gennett
+FA2B",Scooter Gennett,FA2B,103,51,52,21,87,1,--,1.3,141
+223,"Rowdy Tellez
+Tor1B, DH",Rowdy Tellez,"Tor1B, DH",99,52,60,33,106,2,140,1.2,140
+224,"Luis Urias
+MilSS, 2B",Luis Urias,"MilSS, 2B",108,59,42,44,118,3,138,1.1,138
+225,"Ryon Healy
+Mil3B",Ryon Healy,Mil3B,99,50,62,22,96,0,137,1.3,137
+226,"Scott Kingery
+PhiOF, 3B",Scott Kingery,"PhiOF, 3B",114,63,49,30,132,12,136,1,136
+227,"Niko Goodrum
+DetSS, 2B, OF",Niko Goodrum,"DetSS, 2B, OF",111,63,53,44,144,9,136,1.1,136
+228,"Melky Cabrera
+FAOF",Melky Cabrera,FAOF,83,34,40,15,37,1,--,1.5,136
+229,"Shed Long
+Sea2B",Shed Long,Sea2B,114,66,54,50,154,5,135,1.1,135
+230,"Jarred Kelenic
+SeaOF",Jarred Kelenic,SeaOF,82,37,58,24,76,10,135,1.8,135
+231,"Tucker Barnhart
+CinC",Tucker Barnhart,CinC,90,35,42,47,82,1,133,1.1,133
+232,"Jackie Bradley Jr.
+BosOF",Jackie Bradley Jr.,BosOF,98,56,51,45,126,6,130,1.1,130
+233,"Yoshitomo Tsutsugo
+TBOF",Yoshitomo Tsutsugo,TBOF,93,49,53,55,120,0,130,1.2,130
+234,"Dexter Fowler
+StLOF",Dexter Fowler,StLOF,77,48,45,50,95,4,129,1.3,129
+235,"Domingo Santana
+CleOF",Domingo Santana,CleOF,106,58,62,50,153,5,128,1,128
+236,"Austin Riley
+AtlOF",Austin Riley,AtlOF,107,68,77,34,158,0,128,1.1,128
+237,"Jose Peraza
+Bos2B, SS, OF",Jose Peraza,"Bos2B, SS, OF",90,35,27,13,44,7,128,1.3,128
+238,"Mike Tauchman
+NYYOF",Mike Tauchman,NYYOF,75,44,41,32,70,5,127,1.4,127
+239,"Garrett Cooper
+Mia1B, OF",Garrett Cooper,"Mia1B, OF",93,47,49,29,92,0,126,1.3,126
+240,"Kurt Suzuki
+WshC",Kurt Suzuki,WshC,65,31,46,16,32,0,126,1.7,126
+241,"Alec Bohm
+Phi3B",Alec Bohm,Phi3B,72,39,43,25,54,1,126,1.8,126
+242,"Cole Tucker
+PitSS",Cole Tucker,PitSS,89,49,31,36,88,9,126,1.2,126
+243,"Hunter Renfroe
+TBOF",Hunter Renfroe,TBOF,111,64,69,40,163,4,125,0.8,125
+244,"Chris Taylor
+LADOF, 2B, SS",Chris Taylor,"LADOF, 2B, SS",89,53,48,34,106,6,124,1.2,124
+245,"Kevin Pillar
+BosOF",Kevin Pillar,BosOF,78,39,37,10,47,6,123,1.6,123
+246,"Ian Desmond
+ColOF",Ian Desmond,ColOF,86,47,48,27,91,5,122,1.2,122
+247,"Christin Stewart
+DetOF",Christin Stewart,DetOF,96,45,54,47,121,1,122,1.1,122
+248,"DJ Stewart
+BalOF",DJ Stewart,BalOF,72,44,47,39,84,4,122,1.3,122
+249,"Harrison Bader
+StLOF",Harrison Bader,StLOF,88,62,43,41,123,10,121,0.9,121
+250,"Jarrod Dyson
+PitOF",Jarrod Dyson,PitOF,65,44,19,32,58,19,121,1.3,121
